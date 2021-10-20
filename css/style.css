@@ -40,13 +40,6 @@ nav{
     grid-template-rows: 1fr;
 }
 
-.nav-container span{
-    display: block;
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 main{
     background-color: darkslategray;
